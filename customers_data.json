@@ -1,0 +1,29 @@
+[
+  {
+    "file_id": 1,
+    "file_name": "customers_20260804.csv",
+    "file_type": "CSV",
+    "file_path": "/landing/customers/",
+    "file_size_kb": 125.5,
+    "created_date": "2026-08-04T10:30:00",
+    "is_processed": true
+  },
+  {
+    "file_id": 2,
+    "file_name": "orders_20260804.json",
+    "file_type": "JSON",
+    "file_path": "/landing/orders/",
+    "file_size_kb": 245.8,
+    "created_date": "2026-08-04T11:15:00",
+    "is_processed": false
+  },
+  {
+    "file_id": 3,
+    "file_name": "products_20260804.csv",
+    "file_type": "CSV",
+    "file_path": "/landing/products/",
+    "file_size_kb": 98.2,
+    "created_date": "2026-08-04T12:00:00",
+    "is_processed": false
+  }
+]
